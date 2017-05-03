@@ -6,26 +6,27 @@
 
 2. npm install vue
 	
-	执行npm install vue命令安装vue
+	执行`npm install vue`命令安装vue
 
 3. 全局安装 vue-cli
-4. 
-	npm install --global vue-cli
+ 
+	`npm install --global vue-cli`
 
 4. 创建一个基于 webpack 模板的新项目
  
-	vue init webpack 项目名称
+	`vue init webpack 项目名称`
 
 5. 安装依赖
-
-	cd my-project
-	npm install
-
-8.运行vue项目
 	
-	npm run dev
+    `cd my-project`
 
-# first-vue
+	` npm install`
+    
+6. 运行vue项目
+		
+	`npm run dev`
+
+# first-vue #
 
 > first vue
 
@@ -56,3 +57,8 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+#vue的目录结构#
+
+![Vue的目录结构介绍](http://i.imgur.com/sNFudel.png)
+
